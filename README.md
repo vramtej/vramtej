@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I am Ramtej Vissamsetti. I'm a first year B.Tech student studying computer science with health informatics specialization from VIT Bhopal. I hope to learn technical skills, improve my understanding of computer science, and develop the ability to create innovative solutions using technology.
 
 <!--
 **vramtej/vramtej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
